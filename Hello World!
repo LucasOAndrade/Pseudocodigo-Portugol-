@@ -1,0 +1,12 @@
+Algoritmo "Hello World"
+
+Var
+
+
+Inicio
+
+
+escreval ("Olá mundo!")
+// O comando escreval escreve a mensagem na tela e salta uma linha em seguida
+
+Fimalgoritmo
